@@ -11,7 +11,7 @@
 
   - Learned to create dropdown icon using ::after & ::before pseudo element
 
-  - Learned to use flex grow, shrink & basis
+  - Learned how we can use position Relative & Absolute in combination so that items can be stacked on top of each other
 
 ---
 
